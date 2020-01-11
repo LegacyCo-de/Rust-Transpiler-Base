@@ -1,0 +1,17 @@
+primitive types: int, float, bool, char, byte, sbyte, decimal, double, uint, long, ulong, object, short, ushort, string
+
+enum
+
+void
+
+class, function
+
+interface
+
+delegate
+
+struct
+
+public, private
+
+nullable
